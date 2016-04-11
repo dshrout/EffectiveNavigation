@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\Android\\xian\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_section_launchpad.xml",
+        "source": "D:\\Android\\xian\\EffectiveNavigation\\app\\src\\main\\res\\layout\\fragment_section_launchpad.xml"
+    },
+    {
+        "merged": "D:\\Android\\xian\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_collection_object.xml",
+        "source": "D:\\Android\\xian\\EffectiveNavigation\\app\\src\\main\\res\\layout\\fragment_collection_object.xml"
+    },
+    {
+        "merged": "D:\\Android\\xian\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Android\\xian\\EffectiveNavigation\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android\\xian\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_collection_demo.xml",
+        "source": "D:\\Android\\xian\\EffectiveNavigation\\app\\src\\main\\res\\layout\\activity_collection_demo.xml"
+    },
+    {
+        "merged": "D:\\Android\\xian\\EffectiveNavigation\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_section_dummy.xml",
+        "source": "D:\\Android\\xian\\EffectiveNavigation\\app\\src\\main\\res\\layout\\fragment_section_dummy.xml"
+    }
+]
